@@ -1,0 +1,16 @@
+# Data and Exports
+data/
+exports/
+*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
